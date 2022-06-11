@@ -7,7 +7,7 @@
 
 
 def solve(sequence):
-    pass
+    print(tuple(sorted(sequence)))
 
 
 
